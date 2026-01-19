@@ -37,11 +37,7 @@ The objective is to compute the most efficient sequence of moves that pushes all
 
 ## Project Context
 This project was developed as **Major Course Output 1 (MCO1)** for the course  
-**CSINTSY - Introduction to Intelligent Systems** at De La Salle University.
-
-The implementation focuses on core Artificial Intelligence concepts, including:
-- **LO1**: Designing and evaluating informed search algorithms and state representations  
-- **LO2**: Improving computational efficiency through heuristics and pruning strategies  
+**CSINTSY - Introduction to Intelligent Systems** at De La Salle University. 
 
 The project adheres to strict academic requirements for state representation, successor generation, and heuristic correctness.
 
